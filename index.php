@@ -1,5 +1,4 @@
 <?php 
-$love =  "hello";
-echo love;
+echo "Привет"
 ?>
 
